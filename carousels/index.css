@@ -1,3 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#title_div{
+    background-color: rgb(228, 227, 227);
+height: 60px;
+width: 90%;
+margin: auto;
+margin-bottom: 41px;
+text-align: center;
+font-size: 35px;
+color: rgb(232, 145, 235);
+}
+
 
   /* animated slider */
 
@@ -61,4 +76,101 @@
     right: 0;
   }
   
- 
+ /* the other slider with info */
+
+ .Product_slider {
+    width: 90%;
+    position: relative;
+    overflow: hidden;
+    margin: auto;
+  }
+  
+  .sliderP {
+    grid-gap: 0.8rem;
+    gap: 1.9rem;
+    padding: 0 0.8rem;
+    margin: 0 -0.8rem;
+    display: flex;
+    left: 0;
+    transition: left 0.3s ease-out;
+    position: relative;
+  }
+  
+  .SliderCardp {
+    border: 1 solid #fff;
+    box-sizing: content-box;
+    min-width: 15rem;
+    max-width: 15rem;
+  }
+  .SliderCardp:hover{
+    border: red;
+  }
+  .product_box {
+    flex-shrink: 0;
+    width: 100%;
+  }
+  
+  .give_path,
+  .give_path:active,
+  .give_path:hover {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .give_path img {
+    width: 100%;
+  }
+  .give_path img:hover{
+    border: red;
+  }
+  .sliderCardDiv {
+    height: 100%;
+    width: 100%;
+    padding: 1.6rem 2.4rem;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    color: #000;
+  }
+  
+  
+  #swipe_R {
+    right: 0;
+  }
+  
+  .product_summary {
+    color: #2f3337;
+    font-weight: 300;
+    overflow: hidden;
+      text-overflow: ellipsis;
+      height: 42px;
+      color: #566770;
+      font-size: 16px;
+      text-align: left;
+      letter-spacing: 0.5px;
+      margin-top: 5px;
+      line-height: 21px;
+      font-family: 'Aqleema-Regular';
+  }
+  
+  .product_price {
+    color: #2c2d2e;
+    font-size: 1rem;
+    line-height: 1.9rem;
+  }
+  
+  .Product_slider .pButton {
+    position: absolute;
+    top: 40%;
+    text-decoration: none;
+    padding-left: 0.1rem;
+    padding-right: 0.2rem;
+    margin: -0.1rem;
+    background-color: transparent;
+    border: transparent;
+    border-radius: 0.3rem;
+    cursor: pointer;
+  }
+  
+  
