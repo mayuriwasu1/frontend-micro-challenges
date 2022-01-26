@@ -1,0 +1,64 @@
+
+  /* animated slider */
+
+
+  
+  .brand_slider_div2 {
+    width: 90%;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .slider_div2 {
+    grid-gap: 1rem;
+    gap: 3rem;
+    padding: 0 0.8rem;
+    margin: 0 -0.8rem;
+    display: flex;
+    left: 0;
+    transition: left 0.3s ease-out;
+    position: relative;
+  }
+  
+  .slider_box_a {
+    border: 1 solid #fff;
+    box-sizing: content-box;
+    min-width: 15rem;
+    max-width: 15rem;
+  }
+  
+  .sliderBoxxx {
+    flex-shrink: 0;
+    width: 100%;
+  }
+  
+  .link_sliderTopagea,
+  .link_sliderTopagea:active,
+  .link_sliderTopagea:hover {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .link_sliderTopagea img {
+    width: 100%;
+  }
+  
+  
+  .brand_slider_div2 .butona {
+    position: absolute;
+    top: 40%;
+    text-decoration: none;
+    padding-left: 0.1rem;
+    padding-right: 0.2rem;
+    margin: -0.1rem;
+    background: transparent;
+    border: transparent;
+    cursor: pointer;
+  }
+  
+  #rightSwipea {
+    right: 0;
+  }
+  
+ 
