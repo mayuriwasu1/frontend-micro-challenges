@@ -1,0 +1,12 @@
+#scrollDiv {
+    border: 10px solid brown;
+    height: 500px;
+    margin: auto;
+    width: 30%;
+    text-align: center;
+    border-radius: 3%;
+    overflow-y: scroll;
+    margin-top: 5%;
+
+
+  }
