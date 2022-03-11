@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+#outerCircle{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(209, 234, 248);
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 50%;
+    margin-bottom: -150px;
+    opacity: 0.8;
+    
+}
+#outerCircle:hover{
+    height: 102px;
+    width: 102px;
+}
+#mountain{
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(139, 139, 139);
+    border-bottom: 60px solid rgb(194, 211, 221); 
+    border-top: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-radius: 50%;
+}
