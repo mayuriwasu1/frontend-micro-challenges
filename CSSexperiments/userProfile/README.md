@@ -1,6 +1,6 @@
 - **User Profile**
 ---
 
-![glimpse](https://github.com/mayuriwasu1/CSS-mini-projects/CSSexperiments/userProfile/user.png)
+![glimpse](https://github.com/mayuriwasu1/CSS-mini-projects/blob/main/CSSexperiments/userProfile/user.png)
 
 ---
