@@ -24,6 +24,6 @@
   
 ---
  </td>
-  <td><img height="350px" width="600px" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif"/></td>
+  <td><img height="150px" width="300px" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif"/></td>
   </tr>
   </table>
