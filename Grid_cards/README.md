@@ -1,6 +1,6 @@
 <table>
   <tr vorder="none">
-<td align="left">
+<td align="left" width="70%">
  - 🔭 I’m currently working on React 
  <br>
  - 🌱 I’m currently learning MERN stack 
@@ -24,6 +24,6 @@
   
 ---
  </td>
-  <td><img align="right" height="150px" width="300px" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif"/></td>
+  <td><img align="right" height="150px" width="30%" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif"/></td>
   </tr>
   </table>
