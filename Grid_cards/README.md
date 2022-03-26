@@ -2,7 +2,9 @@
   <tr vorder="none">
 <td>
  - 🔭 I’m currently working on React 
+ <br>
  - 🌱 I’m currently learning MERN stack 
+ <br>
  - 📫 How to reach me: mayuriwasu2000@gmail.com
 <!--  - 🔗 My portfolio :  -->
 <!-- - ⚡ Fun fact: I love playing Chess even though i am noob in chess -->
