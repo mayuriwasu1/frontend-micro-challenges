@@ -1,1 +1,1 @@
-link : https://textfadeanim.netlify.app/
+link - https://textfadeanim.netlify.app/
